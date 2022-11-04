@@ -1,6 +1,8 @@
 flask
 dash
 dash_bootstrap_components
+pandas
+plotly
 # gunicorn==20.0.4
 # redis
 # postgres
